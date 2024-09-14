@@ -1,0 +1,218 @@
+body{
+    background-color: #0f171e;
+    color: white;
+}      
+.home:hover{
+    font-size: 35px;
+    color: white;
+}
+.search:hover{
+    font-size: 35px;
+    color: white;
+}
+.about:hover{
+    font-size: 35px;
+    color: white;
+}
+.sign:hover{
+    font-size: 35px;
+    color: white;
+}
+.support:hover{
+    font-size: 35px;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 0%;
+}
+.home{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 550px;
+    text-decoration: none;
+}
+.search{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right:390px;
+    text-decoration: none;
+}
+.about{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 240px;
+    text-decoration: none;
+}
+
+.support{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right:70px;
+    text-decoration: none;
+}
+.sign{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 330px;
+    text-decoration: none;
+}
+#copyright{
+    color: white;
+    position: absolute;
+    top: 1130px;
+    left: 400px;
+    font-size: 40px;
+}
+#crimetitle{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 70px;
+    position: absolute;
+    top: 50px;
+    left: 410px;
+}
+#table1{
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+th, td{border: 6px solid #0f171e}
+#gangsofwasseypur1{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 45px;
+}
+#gangsofwasseypur2{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 370px;
+}
+#niceguys{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 697px;
+}
+#pushpa{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 1010px;
+}
+#table2{
+position: absolute;
+    top: 430px;
+    left: 30px;
+}
+#novemberman{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 50px;
+}
+#americansiege{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 370px;
+}
+#hacker{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 690px;
+}
+#hitmansbodyguard{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 1010px;
+}
+#table3{
+    position: absolute;
+    top: 660px;
+    left: 30px;
+}
+#americansicario{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 850px;
+    left: 17px;
+}
+#gangsterexchange{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 370px;
+}
+#fortress{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    top: 850px;
+    left: 690px;
+}
+#parker{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    top: 850px;
+    left: 1010px;
+}
+
+#table4{
+    position: absolute;
+    top: 890px;
+    left: 30px;
+}
+#raidredemption{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 1080px;
+    left: 30px;
+}
+#hacker2021{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1080px;
+    left: 370px;
+}

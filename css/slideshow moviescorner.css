@@ -1,0 +1,14 @@
+.slideshow-container{
+    position: absolute;
+    top: 800px;
+    left: 170px;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: grey;
+    border-radius: 50%;
+    display: inline-block;
+    
+  }

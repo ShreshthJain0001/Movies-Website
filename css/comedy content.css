@@ -1,0 +1,261 @@
+body{
+    background-color: #0f171e;
+    color: white;
+}      
+.home:hover{
+    font-size: 35px;
+    color: white;
+}
+.search:hover{
+    font-size: 35px;
+    color: white;
+}
+.about:hover{
+    font-size: 35px;
+    color: white;
+}
+.sign:hover{
+    font-size: 35px;
+    color: white;
+}
+.support:hover{
+    font-size: 35px;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 0%;
+}
+.home{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 550px;
+    text-decoration: none;
+}
+.search{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right:390px;
+    text-decoration: none;
+}
+.about{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 240px;
+    text-decoration: none;
+}
+
+.support{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right:70px;
+    text-decoration: none;
+}
+.sign{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 330px;
+    text-decoration: none;
+}
+#comedytitle{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 70px;
+    position: absolute;
+    top: 50px;
+    left: 410px;
+}
+#table1{
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+th, td{border: 6px solid #0f171e}
+#wolfofwallstreet{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 50px;
+}
+#theroyaltreatment{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 370px;
+}
+#nantucketnoel{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 697px;
+}
+#sexappeal{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 1010px;
+}
+#table2{
+position: absolute;
+    top: 430px;
+    left: 30px;
+}
+#patipatniaurwoh{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 50px;
+}
+#mysonisgay{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    top: 620px;
+    left: 370px;
+}
+#halfbrothers{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 690px;
+}
+#badsanta{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 1010px;
+}
+#table3{
+    position: absolute;
+    top: 660px;
+    left: 30px;
+}
+#playingwithfire{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 50px;
+}
+#coming2america{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 370px;
+}
+#totaldhamaal{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 690px;
+}
+#fuddu{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 1010px;
+}
+#table4{
+    position: absolute;
+    top: 890px;
+    left: 30px;
+}
+#globalbaba{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1080px;
+    left: 50px;
+}
+#crazytabbar{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1080px;
+    left: 370px;
+}
+#jawaanijaaneman{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1080px;
+    left: 690px;
+}
+#jumanji{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1080px;
+    left: 1010px;
+}
+#table5{
+    position: absolute;
+    top: 1120px;
+    left: 30px;
+}
+#badboys{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1310px;
+    left: 50px;
+}
+#velle{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1310px;
+    left: 370px;
+}
+#homealone{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 1310px;
+    left: 690px;
+}
+#copyright{
+    font-size: 37px;
+    position: absolute;
+    top: 1370px;
+    left: 400px;
+}

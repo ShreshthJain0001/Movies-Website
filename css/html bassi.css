@@ -1,0 +1,126 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background: #0f171e;
+    color: rgba(255, 255, 255, 0.849);
+}
+.Genre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Genre figure{
+    margin: 20px;
+}
+.genres{
+    font-size: 45px;
+    margin-left: 37px;
+}
+.Figcaption{
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.tagline{
+    margin:100px 0px 0px 700px;
+    font-size: 28px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 2px;
+    
+}
+header{
+    font-style: italic;
+    position: sticky;
+    top: 0%;
+    width: 100%;
+    height: 100px;
+    background: #0f171e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+    font-size: 30px;
+}
+header nav ul {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav ul li a{
+    color: rgba(255, 255, 255, 0.849);
+}
+header nav ul li{
+    padding: 20px
+}
+.logo{
+    padding: 20px;
+    display: inline-block;
+}
+nav{
+    display: inline-block;
+}
+.language{
+    font-size: 40px;
+    margin-left: 37px;
+}
+.Languages{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 44px;
+}
+.copyright{
+    position: absolute;
+    top: 1270px;
+    left: 350px;
+    font-size: 37px;
+   text-align: center;
+}
+.slideshow-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.849);
+}
+.signin a{
+    padding: 0px 30px ;
+    
+}
+.action{
+    font-size: 30px;
+}
+.comedy{
+    font-size: 30px;
+}
+.horror{
+    font-size: 30px;
+}
+.romance{
+    font-size: 30px;
+}
+.crime{
+    font-size: 30px;
+}
+.aniamtion{
+    font-size: 30px;
+}
+.drama{
+    font-size: 30px;
+}
+a:hover{
+    font-size: 35px;
+}

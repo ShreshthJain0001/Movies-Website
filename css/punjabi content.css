@@ -1,0 +1,195 @@
+body{
+    background-color: #0f171e;
+    color: white;
+}      
+.home:hover{
+    font-size: 35px;
+    color: white;
+}
+.search:hover{
+    font-size: 35px;
+    color: white;
+}
+.about:hover{
+    font-size: 35px;
+    color: white;
+}
+.sign:hover{
+    font-size: 35px;
+    color: white;
+}
+.support:hover{
+    font-size: 35px;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 0%;
+}
+.home{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 550px;
+    text-decoration: none;
+}
+.search{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right:390px;
+    text-decoration: none;
+}
+.about{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 240px;
+    text-decoration: none;
+}
+
+.support{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right:70px;
+    text-decoration: none;
+}
+.sign{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 330px;
+    text-decoration: none;
+}
+#punjabititle{
+    color: rgba(255, 255, 255, 0.849);
+    font-size: 70px;
+    position: absolute;
+    top: 50px;
+    left: 410px;
+}
+#table1{
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+th, td{border: 6px solid #0f171e}
+#crazytabbar{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 50px;
+}
+#kadehankadenaa{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 370px;
+}
+#rockymental{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 690px;
+}
+#qismat2{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 390px;
+    left: 1010px;
+}
+#table2{
+    position: absolute;
+    top: 430px;
+    left: 30px;
+}
+#qismat{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 50px;
+}
+#daaka{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 370px;
+}
+#shadaa{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 690px;
+}
+#panchhi{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 620px;
+    left: 1010px; 
+}
+#table3{
+    position: absolute;
+    top: 660px;
+    left: 30px;
+}
+#jhalle{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 50px;
+}
+#jindemeriye{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 370px;
+}
+#arjunpatiala{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 690px;
+}
+#jindua{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 850px;
+    left: 1010px;
+}
+#copyright{
+    font-size: 37px;
+    position: absolute;
+    top: 900px;
+    left: 400px;
+}
